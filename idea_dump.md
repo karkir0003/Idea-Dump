@@ -42,4 +42,4 @@ If you guys do take an idea from this doc and build out a project, please credit
 * Chrome Extension that can automatically create a course that you made on one learning website (eg: Udemy) in another learning website like edX, Coursera, Udacity, etc so that creator doesn't have to copy/paste text
 * As an extension, we can create a one-for-all Deploy button for posting social media posts or videos to multiple platforms at once, e.g., Facebook, Instagram, YouTube
 * See if you can mine a dataset from say Squarespace/Wordpress and try to build a dashboard that can identify the trending themes/purposes of websites being built through the platform. What insights can you uncover with such dataset? Let your curiosity run wild
-* 
+* Auto-Generate Table of Content page in Google Doc along with auto-infer your headings/subheadings
