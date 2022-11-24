@@ -22,7 +22,7 @@ In the software engineering track (or broader computer science field), anyone ca
 
 * What gives you the feeling of "Wouldn't it be so great if X technology/app can have Y feature?". Why not build that out?
 
-If you guys do take an idea from this doc and build out a project, please credit @karkir0003 for it! These ideas are listed in no-particular order. Happy building :construction_worker:
+If you guys do take an idea from this doc and build out a project, please credit @karkir0003 and @farisdurrani for it! These ideas are listed in no-particular order. Happy building :construction_worker:
 
 ## Ideas
 
